@@ -13,8 +13,4 @@ class LokasiTest extends TestCase
     {
         $this->assertTrue(true);
     }
-    public function test_lokasi_unit_fail()
-    {
-        $this->assertTrue(false); // Ini dijamin gagal
-    }
 }
